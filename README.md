@@ -58,7 +58,7 @@ A Python Based Crawler written in Django(UI).😍
 - Will conclude these technologies in thia project in coming days.
 
 ### Support this project : 
-- We're open thia project to all anyone can contribute!
+- We're open this project to all anyone can contribute!
 
 [![Custom badge][Insta-shield]][Insta-me]
 [![LinkedIn][linkedIn-shield]][linkedin-url]
