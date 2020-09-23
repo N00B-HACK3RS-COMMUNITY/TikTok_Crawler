@@ -52,6 +52,13 @@ A Python Based Crawler written in Django(UI).😍
   - cd ../
   - python manage.py runserver
   - Open browser enter this address localhost : http://127.0.0.1:8000 localhost you must see the complete project.
+  
+### Future Scope :
+- Thia project is lacking from some latest technologies like AI, ML and Big Data.
+- Will conclude these technologies in thia project in coming days.
+
+### Support this project : 
+- We're open thia project to all anyone can contribute!
 
 [![Custom badge][Insta-shield]][Insta-me]
 [![LinkedIn][linkedIn-shield]][linkedin-url]
